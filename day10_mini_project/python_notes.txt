@@ -1,0 +1,10 @@
+Python Notes
+
+1. Lists are ordered, mutable collections that can store multiple items.
+2. Tuples are ordered collections that cannot be modified after creation.
+3. Dictionaries store data as key-value pairs.
+4. A Python function is defined using the `def` keyword.
+5. A lambda function is a small anonymous function defined using the `lambda` keyword.
+6. List comprehensions provide a concise way to create lists from iterables.
+7. Exceptions can be handled using `try` and `except` blocks.
+8. A Python virtual environment isolates project dependencies from other Python projects.

@@ -1,0 +1,4 @@
+Employees receive 20 days of annual leave.
+Employees can carry forward 5 unused leave days.
+Passwords must be changed every 90 days.
+Employees must submit travel expenses within 30 days.
